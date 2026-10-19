@@ -1,0 +1,46 @@
+```css
+/* Estilo general de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5eee6;
+    color: #3e2723;
+    margin: 0;
+    padding: 30px;
+}
+
+/* Título de la cafetería */
+h2 {
+    text-align: center;
+    background-color: #6f4e37;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Lista de productos */
+ul {
+    background-color: white;
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 25px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px #00000020;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Cada producto */
+li {
+    background-color: #f5eee6;
+    margin-top: 12px;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+/* Efecto al pasar el ratón */
+li:hover {
+    background-color: #e0c3a3;
+}
+```
